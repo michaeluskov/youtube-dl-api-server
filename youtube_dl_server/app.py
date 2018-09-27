@@ -9,6 +9,7 @@ from youtube_dl.version import __version__ as youtube_dl_version
 
 from .version import __version__
 
+print "USKOV VERSION"
 
 if not hasattr(sys.stderr, 'isatty'):
     # In GAE it's not defined and we must monkeypatch
