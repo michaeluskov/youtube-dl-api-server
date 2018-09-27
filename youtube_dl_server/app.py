@@ -123,6 +123,7 @@ ALLOWED_EXTRA_PARAMS = {
     'allsubtitles': bool,
     'subtitlesformat': str,
     'subtitleslangs': list,
+    'referer': str,
 }
 
 
